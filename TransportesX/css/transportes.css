@@ -253,6 +253,9 @@ h2{
     display: flex;
      /* width:  100%; */
 }
+.formulario p input[type="text"]{
+    width: 90%;
+}
 
 .formulario p label {
    
@@ -269,6 +272,7 @@ h2{
 .formulario textarea{
     resize: none;
     height: 150px;
+    width: 90%;
 }
 
 .formulario input[type="submit"] {
